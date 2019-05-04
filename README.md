@@ -1,3 +1,4 @@
 ### Please find all mockups in the `mockups/` folder
-![hover-mockup](https://user-images.githubusercontent.com/10798986/57175407-2d2a2600-6e65-11e9-8245-024b977be440.png)
-
+Muhammad Imran
+may4 task 2 
+published at:https://ilyasimran27.github.io/may-4-task2/.
